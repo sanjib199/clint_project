@@ -1,4 +1,4 @@
 class user{
 
-	int i =10;
+	int i =50;
 	}
